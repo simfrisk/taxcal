@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(0, 0, 1);
   color: white;
 
   display: flex;
@@ -8,7 +8,7 @@ body {
   justify-content: center;
   height: 100dvh;
 
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #main {
@@ -63,7 +63,7 @@ button {
   border-radius: 10px;
   border: none;
   transition: 0.3s;
- 
+
 }
 
 button:hover {
